@@ -33,4 +33,4 @@ describe('Order Form', () => {
             .get(':nth-child(1) > .ingredient-list > :nth-child(5)')
             .contains('jalapeno')
     })
-})
+});
